@@ -3,7 +3,7 @@ import { Col, Input, InputNumber, Modal, Row} from 'antd'
 
 function GameStartDisplay(props) {
 
-    const [isVisible, setIsVisible] = useState(true);
+    const [isVisible, setIsVisible] = useState(false);
     const [teamNum, setTeamNum] = useState(0);
     const [displayState, setDisplayState] = useState(1);
     const [teamList, setTeamList] = useState([]);

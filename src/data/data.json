@@ -25,8 +25,8 @@
                         "id": 3,
                         "selected": false,
                         "category": "Christmas",
-                        "question": "les et metus eu, dictum semper velit. Phasellus m?",
-                        "answer": "elis, rutrum a"
+                        "question": "What does Santa Claus say?",
+                        "answer": "Ho Ho Ho..."
                     },
                     {
                         "point": 100,
@@ -69,9 +69,9 @@
                         "point": 200,
                         "id": 3,
                         "selected": false,
-                        "category": "Lorem ipsum",
-                        "question": "les et metus eu, dictum semper velit. Phasellus m?",
-                        "answer": "elis, rutrum a"
+                        "category": "Christmas",
+                        "question": "We say 'Merry Cristmas' to wish someone a merry Christmas. However there are many people who do not celbrate Christmas for various reasons - religioin being one of them. So, what do we say to them instead during the holidays season?",
+                        "answer": "Happy Holidays!! :D"
                     },
                     {
                         "point": 200,
@@ -114,8 +114,8 @@
                         "id": 3,
                         "selected": false,
                         "category": "Christmas",
-                        "question": "When is Christmas?",
-                        "answer": "December 25th"
+                        "question": "What creature lives with Santa at the North Pole and helps him? They are often referred to as ' Santa's Little Helpers '",
+                        "answer": "Elves"
                     },
                     {
                         "point": 300,
@@ -159,8 +159,8 @@
                         "id": 3,
                         "selected": false,
                         "category": "Christmas",
-                        "question": "When is Christmas?",
-                        "answer": "December 25th"
+                        "question": "Mistletoe is a plant that is a commonly associated with Christmas and people hang a bunch of mistletoe in their house as decoration. According to tradition, what are you supposed to do if you're under the mistletoe?",
+                        "answer": "Kiss"
                     },
                     {
                         "point": 400,
@@ -204,8 +204,8 @@
                         "id": 3,
                         "selected": false,
                         "category": "Christmas",
-                        "question": "When is Christmas?",
-                        "answer": "December 25th"
+                        "question": "Sing a Christmas Song",
+                        "answer": "..."
                     },
                     {
                         "point": 500,

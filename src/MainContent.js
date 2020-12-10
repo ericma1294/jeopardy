@@ -28,7 +28,7 @@ const testTeam = [
 
 function MainContent() {
     const [score, setScore] = useState([]);
-    const [teamList, setTeamList] = useState([]);
+    const [teamList, setTeamList] = useState(testTeam);
     const [gameEnd, setGameEnd] = useState(false)
     const [winningTeam, setWinningTeam] = useState({})
 
@@ -51,10 +51,10 @@ function MainContent() {
         <DataContext.Provider value={d}>
             <TeamContext.Provider value={[teamList, setTeamList]}>
                 <Row>
-                    <Col span={2}></Col>
-                    <Col span={20}>
+                    <Col span={1}></Col>
+                    <Col span={22}>
                         <Row>
-                            <Col span={18}>
+                            <Col span={19}>
                                 {
                                     gameEnd ?
                                         <div> 
@@ -64,7 +64,7 @@ function MainContent() {
                                         <GameDisplay />
                                 }
                             </Col>
-                            <Col span={6} style={style.scoreBoard}>
+                            <Col span={5} style={style.scoreBoard}>
                                 <Row><Col span={24}><h1 style={{margin: '0.5em 0'}}>Scoreboard</h1></Col></Row>
                                 {
                                     teamList.map((val) => 
@@ -78,7 +78,7 @@ function MainContent() {
                             </Col>
                         </Row>
                     </Col>
-                    <Col span={2}></Col>
+                    <Col span={1}></Col>
                     <GameStartDisplay setTeam={setTeam} />
                 </Row>
             </TeamContext.Provider>

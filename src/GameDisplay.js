@@ -78,7 +78,8 @@ const style = {
         border: 'black 2px solid'
     },
     text: {
-        color: "#FF9C1C"
+        color: "#FF9C1C",
+        fontSize: '24pt'
     }
 }
 

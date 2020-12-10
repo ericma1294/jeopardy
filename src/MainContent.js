@@ -28,7 +28,7 @@ const testTeam = [
 
 function MainContent() {
     const [score, setScore] = useState([]);
-    const [teamList, setTeamList] = useState(testTeam);
+    const [teamList, setTeamList] = useState([]);
     const [gameEnd, setGameEnd] = useState(false)
     const [winningTeam, setWinningTeam] = useState({})
 

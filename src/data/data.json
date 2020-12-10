@@ -32,17 +32,9 @@
                         "point": 100,
                         "id": 4,
                         "selected": false,
-                        "category": "stuff",
-                        "question": "ugue id nisi. Nun?",
-                        "answer": "feooam faae, aeku"
-                    },
-                    {
-                        "point": 100,
-                        "id": 5,
-                        "selected": false,
-                        "category": "lolol",
-                        "question": "esuada mauris vitae iaculis. Cras ac mollis ipsum. Etiam consectetur, felis sit amet dignissim lacinia, purus sem pharetra odio, ac eleifend velit dui se?",
-                        "answer": "daaejk"
+                        "category": "Pre/Suffix",
+                        "question": "anti-",
+                        "answer": "opposite"
                     }
                 ]
         },
@@ -76,17 +68,9 @@
                     {
                         "point": 200,
                         "id": 4,
-                        "category": "em hendrerit m",
-                        "question": "ugue id nisi. Nun?",
-                        "answer": "feooam faae, aeku"
-                    },
-                    {
-                        "point": 200,
-                        "id": 5,
-                        "selected": false,
-                        "category": "Japan",
-                        "question": "esuada mauris vitae iaculis. Cras ac mollis ipsum. Etiam consectetur, felis sit amet dignissim lacinia, purus sem pharetra odio, ac eleifend velit dui se?",
-                        "answer": "daaejk"
+                        "category": "Prefix/Suffix",
+                        "question": "-ology",
+                        "answer": "the study of~"
                     }
                 ]
         },
@@ -98,7 +82,7 @@
                         "id": 1,
                         "selected": false,
                         "category": "2020",
-                        "question": "What does it mean to have 'hindsight 2020' or '2020 hindsignt'? Give an example",
+                        "question": "What does it mean to have 'hindsight 2020' or '2020 hindsight'? Give an example",
                         "answer": "full and complete understanding of an event AFTER it has happened. Example: I wish I did not come to Nantama"
                     },
                     {
@@ -106,7 +90,7 @@
                         "id": 2,
                         "selected": false,
                         "category": "ABC",
-                        "question": "Nouns which are also verbs",
+                        "question": "Nouns that are also verbs",
                         "answer": "..."
                     },
                     {
@@ -121,17 +105,9 @@
                         "point": 300,
                         "id": 4,
                         "selected": false,
-                        "category": "Christmas",
-                        "question": "When is Christmas?",
-                        "answer": "December 25th"
-                    },
-                    {
-                        "point": 300,
-                        "id": 5,
-                        "selected": false,
-                        "category": "Christmas",
-                        "question": "When is Christmas?",
-                        "answer": "December 25th"
+                        "category": "Pre/Suffix",
+                        "question": "~ish",
+                        "answer": "a little bit"
                     }
             ]
         },
@@ -166,17 +142,9 @@
                         "point": 400,
                         "id": 4,
                         "selected": false,
-                        "category": "Christmas",
-                        "question": "When is Christmas?",
-                        "answer": "December 25th"
-                    },
-                    {
-                        "point": 400,
-                        "id": 5,
-                        "selected": false,
-                        "category": "Christmas",
-                        "question": "When is Christmas?",
-                        "answer": "December 25th"
+                        "category": "Prefix/Suffix",
+                        "question": "inter-",
+                        "answer": "between, among, and etc..."
                     }
                 ]
         },
@@ -211,18 +179,10 @@
                         "point": 500,
                         "id": 4,
                         "selected": false,
-                        "category": "Christmas",
-                        "question": "When is Christmas?",
-                        "answer": "December 25th"
-                    },
-                    {
-                        "point": 500,
-                        "id": 5,
-                        "selected": false,
-                        "category": "Christmas",
-                        "question": "When is Christmas?",
-                        "answer": "December 25th"
-                    }              
+                        "category": "Pre/Suffix",
+                        "question": "Octo-",
+                        "answer": "Eight"
+                    }             
                 ]
         }
 

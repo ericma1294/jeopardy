@@ -34,7 +34,7 @@ function GameDisplay(props) {
                         <Row>
                             {
                                 data['data'][0].content.map((v) => 
-                                    <Col span={4} style={style.grid}><h1 style={style.text}>{v.category}</h1></Col>
+                                    <Col span={6} style={style.grid}><h1 style={style.text}>{v.category}</h1></Col>
                                 )
                             }
                       
@@ -45,11 +45,11 @@ function GameDisplay(props) {
                                     {
                                         value['content'].map((v) => 
                                             v.selected ? 
-                                                <Col style={{...style.grid, background: '#323232'}} span={4}>
+                                                <Col style={{...style.grid, background: '#323232'}} span={6}>
                                                     <h1 style={{...style.text, opacity: '0.5'}}>{value.point}</h1>
                                                 </Col>
                                             : 
-                                                <Col style={style.grid} span={4} onClick={() => changeState(v)}>
+                                                <Col style={style.grid} span={6} onClick={() => changeState(v)}>
                                                     <h1 style={style.text}>{value.point}</h1>
                                                 </Col>
                                         )

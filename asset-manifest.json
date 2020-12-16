@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jeopardy/static/css/main.d14c65c9.chunk.css",
-    "main.js": "/jeopardy/static/js/main.77190e67.chunk.js",
-    "main.js.map": "/jeopardy/static/js/main.77190e67.chunk.js.map",
+    "main.js": "/jeopardy/static/js/main.ad23daea.chunk.js",
+    "main.js.map": "/jeopardy/static/js/main.ad23daea.chunk.js.map",
     "runtime-main.js": "/jeopardy/static/js/runtime-main.d9696d6c.js",
     "runtime-main.js.map": "/jeopardy/static/js/runtime-main.d9696d6c.js.map",
     "static/css/2.b00201c5.chunk.css": "/jeopardy/static/css/2.b00201c5.chunk.css",
@@ -14,6 +14,8 @@
     "static/css/2.b00201c5.chunk.css.map": "/jeopardy/static/css/2.b00201c5.chunk.css.map",
     "static/css/main.d14c65c9.chunk.css.map": "/jeopardy/static/css/main.d14c65c9.chunk.css.map",
     "static/js/2.52988599.chunk.js.LICENSE.txt": "/jeopardy/static/js/2.52988599.chunk.js.LICENSE.txt",
+    "static/media/congratz.b19f0dd7.gif": "/jeopardy/static/media/congratz.b19f0dd7.gif",
+    "static/media/dogs.bd4048a8.jpeg": "/jeopardy/static/media/dogs.bd4048a8.jpeg",
     "static/media/logo.6ce24c58.svg": "/jeopardy/static/media/logo.6ce24c58.svg",
     "static/media/nelsonMandela.565a423b.PNG": "/jeopardy/static/media/nelsonMandela.565a423b.PNG"
   },
@@ -22,6 +24,6 @@
     "static/css/2.b00201c5.chunk.css",
     "static/js/2.52988599.chunk.js",
     "static/css/main.d14c65c9.chunk.css",
-    "static/js/main.77190e67.chunk.js"
+    "static/js/main.ad23daea.chunk.js"
   ]
 }
